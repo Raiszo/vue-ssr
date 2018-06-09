@@ -1,3 +1,10 @@
+# emacs files
+*~
+\#*\#
+.\#*
+/server/
+.tern-port
+
 # Logs
 logs
 *.log
